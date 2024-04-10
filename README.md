@@ -1,3 +1,13 @@
+# Capítulo III: Requirements Specification
+
+# 3.1. To-Be Scenario Mapping
+
+El escenario To-Be es una herramienta crucial en la planificación estratégica, ya que define los objetivos futuros y las metas deseadas para mejorar los procesos y sistemas existentes. Este proceso proporciona una visión clara y detallada del estado futuro deseado, identificando áreas de mejora y oportunidades para el cambio. A continuación, se presentará una descripción detallada de este proceso y su aplicación en el contexto del proyecto en cuestión.
+
+<img src="/assets/to_be_empresas.png" alt="To Be Empresas"></img>
+
+<img src="/assets/to_be_usuarios.png" alt="To Be Usuarios"></img>
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
