@@ -26,10 +26,10 @@ Nuestro sistema de navegación está diseñado para ser intuitivo y eficiente, p
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-Presentación y explicación de los wireframes para navegadores web de escritorio y móviles, aplicando principios de diseño e información arquitectónica.
+![wireframe](src/assets/wireframe.jpg)
 
 ### 4.3.2. Landing Page Mock-up
-Mock-ups detallados del Landing Page, demostrando la aplicación de los principios de diseño y el sistema de diseño establecido.
+![wireframe](src/assets/mockup.jpg)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -61,3 +61,4 @@ Diagramas de componentes que describen la organización y relaciones entre compo
 
 ## 4.7. Software Object-Oriented Design
 Descripción del diseño orientado a objetos del software, incluyendo modelos de clases y relaciones entre ellas para reflejar la lógica de negocio y requerimientos del sistema.
+
