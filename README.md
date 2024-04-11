@@ -1,3 +1,151 @@
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+
+Luego de realizar una investigación en el mercado peruano, hemos hallado tres portales de trabajo que ofrecen características similares a la de PostNetQuote. Es por eso que son considerados como potenciales competidores. Estos son:
+
+1. **Claro:**
+
+   Es uno de los principales proveedores de servicios de telecomunicaciones en Perú. Ofrecen fibra óptica para hogares y empresas en diversas regiones del país.
+   
+ <div style="text-align: center;">
+    <img src="src/assets/img-claro-logo.jpg" alt="logo de claro" style="width: 20%;"></img>
+</div>
+
+2. **WIN:**
+
+   Es una empresa de telecomunicaciones peruana que ofrece una red de transmisión totalmente de fibra óptica, desde su centro de distribución principal hasta la ONT del cliente
+
+  <div style="text-align: center;">
+    <img src="src/assets/img-win-logo.jpg" alt="logo de win" style="width: 20%;"></img>
+  </div>
+
+3. **Optical Networks:**
+
+   Es una empresa peruana de telecomunicaciones que cuenta con más de 20 años de experiencia en el sector de las telecomunicaciones y las tecnologías de la información para el segmento B2B. Proporcionan servicios de infraestructura de telecomunicaciones, TI y energía.
+   
+
+   <div style="text-align: center;">
+    <img src="src/assets/img-optical-networks-logo.jpg" alt="logo de opticalnetworks" style="width: 20%;"></img>
+</div>
+### 2.1.1. Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        Claro
+<div style="text-align: center;">
+    <img src="src/assets/img-claro-logo.jpg" alt="logo de claro" style="width: 60%;"></img>
+</div>
+        
+  <td colspan="1" valign="top" style="font-weight: bold;">
+    Win
+<div style="text-align: center;">
+    <img src="src/assets/img-win-logo.jpg" alt="logo de win" style="width: 70%;"></img>
+</div>
+</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Optical Networks
+<div style="text-align: center;">
+      <img src="src/assets/img-optical-networks-logo.jpg" alt="logo de optical networks" style="width: 50%;"></img>
+</div>
+</td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      PostNetQuote
+<div style="text-align: center;">
+      <img src="src/assets/img-postnetquote-logo.png" alt="logo de PostNetQuote" style="width: 65%;"></img>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Es uno de los principales proveedores de servicios de telecomunicaciones en Perú. Ofrecen fibra óptica para hogares y empresas en diversas regiones del país.</td>
+    <td>Ofrece una red de transmisión totalmente de fibra óptica en Perú. Desde su centro de distribución principal hasta la ONT del cliente.</td>
+    <td>Empresa peruana que brinda servicios de telecomunicaciones, con una red de fibra óptica. Ofrecen soluciones tecnológicas, equipo especializado y colaboran con socios de industria.</td>
+    <td>PostNetQuote es una startup que busca facilitar la visibilidad de los servicios de diferentes empresas de postes en Perú. Su objetivo es conectar a las empresas de telecomunicaciones con las empresas de postes a través de una plataforma digital.</td>  
+</tr>
+  <tr>
+    <td>Ventaja competitiva</td>
+    <td>Amplia cobertura y variedad de servicios de telecomunicaciones.</td>
+    <td>Especialización en la transmisión de fibra óptica.</td>
+    <td>Conocimiento local del mercado peruano y soluciones tecnológicas integrales.</td>
+    <td>La principal ventaja competitiva de PostNetQuote es ser la primera plataforma en Perú que conecta a las empresas de telecomunicaciones con las empresas de postes, lo que le da una ventaja competitiva.</td>  
+</tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado objetivo</td>
+    <td>Hogares y empresas en diversas regiones del Perú que necesitan servicios de telecomunicaciones.</td>
+    <td>Clientes que necesitan una red de transmisión de fibra óptica en Perú.</td>
+    <td>Empresas y clientes individuales en Perú que necesitan soluciones tecnológicas y servicios de telecomunicaciones.</td>
+    <td>Empresas de telecomunicaciones que buscan servicios de postes y las empresas de postes que buscan aumentar su visibilidad en el mercado.</td>  
+</tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Marketing digital y promociones para atraer a más clientes.</td>
+    <td>Enfoque en la calidad y velocidad de la fibra óptica para atraer a los clientes.</td>
+    <td>Colaboraciones con socios de la industria y marketing digital para aumentar su presencia en el mercado.</td>
+    <td>PostNetQuote se centrará en el marketing digital y las colaboraciones con empresas de telecomunicaciones y empresas de postes para aumentar su visibilidad en el mercado.</td>  
+</tr>
+  <tr>
+    <td rowspan="2">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Proveedor de servicios de telecomunicaciones que ofrece fibra óptica para hogares y empresas.</td>
+    <td>Proveedor de una red de transmisión totalmente de fibra óptica en Perú.</td>
+    <td>Proveedor de servicios de telecomunicaciones con una red de fibra óptica. Ofrece soluciones tecnológicas y colabora con socios de industria.</td>
+    <td>PostNetQuote ofrece una plataforma digital que permite a las empresas de telecomunicaciones ver y comparar los servicios ofrecidos por diferentes empresas de postes.</td>  
+</tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Versión de pago con tarifas basadas en planes.</td>
+    <td>Versión de pago con tarifas basadas en planes.</td>
+    <td>Aplicación totalmente gratuita.</td>
+    <td>PostNetQuote será una plataforma gratuita para empresas de postes/clientes, mientras que ofrecerá planes de suscripción premium para las empresas de telecomunicaciones.</td>
+  </tr>
+  <tr>
+  <td rowspan="4">Análisis SWOT</td>
+  <td>Fortalezas</td>
+  <td>Claro tiene una gran presencia en Perú, lo que le permite llegar a una amplia base de clientes. Además, ofrece una amplia gama de servicios de telecomunicaciones, incluyendo telefonía móvil, telefonía fija, televisión por cable e internet, lo que le permite satisfacer una variedad de necesidades de los clientes.</td>
+  <td>WIN se especializa en la transmisión de fibra óptica, lo que le permite ofrecer servicios de internet de alta velocidad. Esta especialización podría ser una ventaja competitiva en el mercado de telecomunicaciones de Perú.</td>
+  <td>Optical Networks es una empresa local con un profundo conocimiento del mercado peruano. Además, ofrece soluciones tecnológicas integrales, lo que le permite satisfacer una variedad de necesidades de los clientes.</td>
+  <td>PostNetQuote es la primera plataforma en Perú que conecta a las empresas de telecomunicaciones con las empresas de postes, lo que le da una ventaja competitiva.</td>
+</tr>
+<tr>
+  <td>Debilidades</td>
+  <td>Una de las principales debilidades de Claro es su dependencia de la infraestructura de telecomunicaciones. Cualquier interrupción o problema con esta infraestructura podría afectar la calidad de sus servicios.</td>
+  <td>WIN está limitada a la fibra óptica. Esto podría ser una desventaja si la demanda de otros tipos de servicios de internet aumenta.</td>
+  <td>Optical Networks depende de la infraestructura de telecomunicaciones. Cualquier problema con esta infraestructura podría afectar la calidad de sus servicios.</td>
+  <td>Como startup, PostNetQuote puede enfrentar desafíos para ganar reconocimiento en el mercado y confianza entre las empresas de telecomunicaciones y las empresas de postes.</td>
+</tr>
+<tr>
+  <td>Oportunidades</td>
+  <td>La expansión de la fibra óptica en Perú representa una gran oportunidad para Claro. Esto podría permitirle ofrecer servicios de internet de alta velocidad a más clientes.</td>
+  <td>La creciente demanda de fibra óptica en Perú representa una gran oportunidad para WIN. Esto podría permitirle expandir su base de clientes y aumentar sus ingresos.</td>
+  <td>La creciente demanda de soluciones tecnológicas en Perú representa una gran oportunidad para Optical Networks. Esto podría permitirle expandir su base de clientes y aumentar sus ingresos.</td>
+  <td>La expansión de la fibra óptica en Perú y la falta de una plataforma que conecte a las empresas de telecomunicaciones con las empresas de postes representan una gran oportunidad para PostNetQuote.</td>
+</tr>
+<tr>
+  <td>Amenazas</td>
+  <td>Claro enfrenta una fuerte competencia en el mercado de telecomunicaciones de Perú. Esto podría limitar su capacidad para ganar nuevos clientes y retener a los existentes.</td>
+  <td>WIN depende de la demanda de fibra óptica. Si esta demanda disminuye, podría afectar negativamente a su negocio.</td>
+  <td>Optical Networks también enfrenta una fuerte competencia en el mercado de telecomunicaciones de Perú. Esto podría limitar su capacidad para ganar nuevos clientes y retener a los existentes.</td>
+  <td>PostNetQuote puede enfrentar competencia si otras plataformas deciden ofrecer servicios similares. Además, la regulación gubernamental en el sector de las telecomunicaciones podría representar una amenaza.</td>
+</tr>
+</table>
+
+
+
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
