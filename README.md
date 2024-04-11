@@ -433,6 +433,28 @@ Nuestra StartUp "PostNetQuote" se centra en crear una aplicación web que ayude 
 - Creemos que nuestra aplicación debe contar con un sistema de cotización previa y medio de contacto con la empresa elegida.
 - Creemos que debemos ser capaces de resolver las dudas más frecuentes con relación esta tecnología mediante nuestra aplicación web.
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Hypothesis Statement 01:
+  Creemos que las compañías de telecomunicaciones sufrirán un incremento de ingresos gracias a aparecer en nuestra aplicación web.
+  Sabremos que hemos tenido éxito
+  Cuando la tasa de incremento de ingresos de las compañias incremente en un 5% durante los 3 primeros meses de nuestra aplicación web.
+
+- Hypothesis Statement 02:
+  Creemos que nuestra aplicación será bien recibida por los usuarios finales, situandonos como los líderes a comparación de la competencia.
+  Sabremos que hemos tenido éxito
+  Cuando la cantidad de usuarios que usen nuestra aplicación web sea igual o superior a 100k en los 3 primeros meses luego de nuestro lanzamiento.
+
+- Hypothesis Statement 03:
+  Creemos que los usuarios encontrarán utilidad en nuestra aplicación web y la usarán de manera casual.
+  Sabremos que hemos tenido éxito
+  Cuando la el porcentaje de usuarios que son activos en nuestra aplicación web sea igual o superior al 35% de los usuarios registrados en ese momento.
+
+- Hypothesis Statement 04:
+  Creemos que nuestra aplicación web contribuirá en el crecimiento exponencial que ha tenido el Péru durante este último tiempo.
+  Sabremos que hemos tenido éxito
+  Cuando en informes posteriores al lanzamiento de nuestra aplicación se observe un pico de incremento superior a comparación de años anteriores.
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
