@@ -483,13 +483,13 @@ conocimiento de la aplicación pasando por el proceso de tomar la decisión de u
 **Segmento 1**
 
   <p align="center">
-  <img src="src/assets/img-empathy-map-angel.png" alt="user persona de Ángel Cisneros"></img>
+  <img src="src/assets/img-empathy-map-angel.png" alt="user persona de Ángel Cisneros" style="width: 70%;"></img>
   </p>
 
 **Segmento 2**
 
   <p align="center">
-  <img src="src/assets/img-empathy-map-lucero.png" alt="user persona de Lucero Barrionuevo"></img>
+  <img src="src/assets/img-empathy-map-lucero.png" alt="user persona de Lucero Barrionuevo" style="width: 70%;"></img>
   </p>
 
 ### 2.3.5. As-Is Scenario
@@ -497,13 +497,13 @@ conocimiento de la aplicación pasando por el proceso de tomar la decisión de u
 **Segmento 1**
 
 <p align="center">
-<img src="src/assets/img-as-is-mapping-empresas.jpg" alt="As-is mapping de empresas"></img>
+<img src="src/assets/img-as-is-mapping-empresas.jpg" alt="As-is mapping de empresas" style="width: 70%;"></img>
 </p>
 
 **Segmento 2**
 
 <p align="center">
-<img src="src/assets/img-as-is-mapping-clientes.jpg" alt="As-is mapping de clientes"></img>
+<img src="src/assets/img-as-is-mapping-clientes.jpg" alt="As-is mapping de clientes" style="width: 70%;"></img>
 </p>
 
 
