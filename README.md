@@ -180,7 +180,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         - Se llevaron a cabo las historias de usuario siguiendo una planificación y asignando los puntos correspondientes para garantizar una elaboración eficiente. Posteriormente, fueron adecuadamente ubicadas en el backlog del producto, utilizando los story points para su clasificación y priorización.
         <br><br>
         <b>Luis Sebastian Chavez Guerrero</b><br>
-        - 
+        - Como responsable del capítulo final del informe, me encargué de detallar y demostrar el procedimiento completo de implementación, verificación, despliegue y validación de la solución propuesta para la Landing Page. Este proceso involucró una estrecha coordinación con todos los miembros del equipo con el objetivo de garantizar el desarrollo de una Landing Page con un diseño excepcional y efectivo.
         <br><br> 
         <b>Jean Franco Joel Barrionuevo Reto</b><br>
         - Como encargado de los competidores, realicé un análisis exhaustivo y desarrollé estrategias y tácticas para enfrentarlos. Este trabajo permitió obtener un entendimiento profundo de la competencia, identificar oportunidades y amenazas en el mercado, y entender mejor el panorama competitivo.
@@ -202,7 +202,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         - Se llevaron a cabo las historias de usuario siguiendo una planificación y asignando los puntos correspondientes para garantizar una elaboración eficiente. Posteriormente, fueron adecuadamente ubicadas en el backlog del producto, utilizando los story points para su clasificación y priorización.
         <br><br>
         <b>Luis Sebastian Chavez Guerrero</b><br>
-        - 
+        - Como responsable del capítulo final del informe, me encargué de detallar y demostrar el procedimiento completo de implementación, verificación, despliegue y validación de la solución propuesta para la Landing Page. Este proceso involucró una estrecha coordinación con todos los miembros del equipo con el objetivo de garantizar el desarrollo de una Landing Page con un diseño excepcional y efectivo.
         <br><br> 
         <b>Jean Franco Joel Barrionuevo Reto</b><br>
         - Con la información recopilada, se realizó un proceso de “Needfinding”. Este proceso implicó la identificación y comprensión de las necesidades de los usuarios para poder desarrollar soluciones más efectivas.
