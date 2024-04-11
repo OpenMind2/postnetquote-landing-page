@@ -34,31 +34,50 @@ Nuestro sistema de navegación está diseñado para ser intuitivo y eficiente, p
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-Wireframes de las aplicaciones móviles, mostrando la aplicación de principios de diseño y arquitectura de información.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-Propuesta de wireflows para cada objetivo del usuario, complementado con una explicación detallada del flujo.
 
 ### 4.4.2. Web Applications Mock-ups
-Mock-ups de las aplicaciones, evidenciando la aplicación de principios y elementos de diseño, diseño inclusivo y arquitectura de información.
 
 ### 4.4.3. Web Applications User Flow Diagrams
-Diagrams de flujo de usuario para cada objetivo, incluyendo mock-ups de las vistas y pantallas junto con las rutas esperadas y alternativas.
+![wireframe](src/assets/userflow.jpg)
 
 ## 4.5. Web Applications Prototyping
-Prototipos de UI con simulación de interacción y navegación, acorde con los paths de User Flow Diagrams, incluyendo screenshots y enlaces a videos demostrativos.
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
-Diagrama de contexto que muestra la relación del sistema con entidades externas y usuarios.
+![wireframe](src/assets/diagrama-de-contexto.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-Diagramas de contenedores que detallan las aplicaciones de alto nivel, servicios, y bases de datos.
+![wireframe](src/assets/diagrama-container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-Diagramas de componentes que describen la organización y relaciones entre componentes de software dentro de un contenedor.
+
+#### 4.6.3.1 Client Interaction Boundend Context
+![wireframe](src/assets/diagrama-componente-1.png)
+
+#### 4.6.3.2 Client Interaction Boundend Context
+![wireframe](src/assets/diagrama-componente-2.png)
+
+#### 4.6.3.3 Design and Planning Boundend Context
+![wireframe](src/assets/diagrama-componente-3.png)
+
+#### 4.6.3.4 Document and Report Boundend Context
+![wireframe](src/assets/diagrama-componente-4.png)
+
+#### 4.6.3.5 Georeferencing And Mapping Boundend Context
+![wireframe](src/assets/diagrama-componente-5.png)
 
 ## 4.7. Software Object-Oriented Design
-Descripción del diseño orientado a objetos del software, incluyendo modelos de clases y relaciones entre ellas para reflejar la lógica de negocio y requerimientos del sistema.
 
+### 4.7.1. Class Diagrams.
+
+![wireframe](src/assets/UML.jpg)
+
+### 4.7.2. Class Dictionary.
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
+![wireframe](src/assets/base-de-datos.png)
