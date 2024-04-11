@@ -27,6 +27,7 @@ Luego de realizar una investigación en el mercado peruano, hemos hallado tres p
    <div style="text-align: center;">
     <img src="src/assets/img-optical-networks-logo.jpg" alt="logo de opticalnetworks" style="width: 20%;"></img>
 </div>
+
 ### 2.1.1. Análisis competitivo
 
 <table>
