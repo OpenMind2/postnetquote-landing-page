@@ -53,7 +53,6 @@ En esta sección, vamos a en las historias de usuario de nuestra plataforma de i
     <td>Soporte al Usuario</td>
     <td>Proporcionar capacitación y soporte efectivos a los usuarios para garantizar que puedan aprovechar al máximo todas las funcionalidades de la plataforma.</td>
   </tr>
-  </tr>
   <tr>
     <td>E08</td>
     <td>Integración con Plataformas de Pago</td>
@@ -653,6 +652,14 @@ Entonces la API elimina la cotización y devuelve un mensaje de confirmación.
     <td>E10</td>
  </tr>
 </table>
+
+# 3.3. Impact Mapping
+
+El impact mapping es una herramienta estratégica que alinea los objetivos del negocio con las características de nuestra plataforma. Nos ayuda a visualizar cómo cada aspecto del desarrollo contribuye a los resultados deseados. Al desglosar objetivos en impactos y actividades, tomamos decisiones más centradas en el valor.
+
+<img src="/assets/impact_mapping_ana_lucero.png" alt="Impact Mapping Ana Lucero"></img>
+
+<img src="/assets/impact_mapping_angel_cisneros.png" alt="Impact Mapping Angel Cisneros"></img>
 
 # 4.1. Style Guidelines
 
