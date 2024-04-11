@@ -352,15 +352,15 @@ En relación con la propuesta del sitio web PostNetQuote, valoran su utilidad po
 
 **Segmento 1**
 
- <div style="text-align: center;">
+ <p align="center">
  <img src="src/assets/img-user-persona-angel.png" alt="user persona de Ángel Cisneros"  style="width: 70%;"></img>
- </div>
+  </p>
 
 **Segmento 2**
 
- <div style="text-align: center;">
+  <p align="center">
   <img src="src/assets/img-user-persona-lucero.png" alt="user persona de Lucero Barrionuevo"  style="width: 70%;"></img>
- </div>
+  </p>
 
 ### 2.3.2. User Task Matrix
 
@@ -469,14 +469,14 @@ En la presente sección se ilustra el end-to-end journey de la aplicación PostN
 conocimiento de la aplicación pasando por el proceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 **Segmento 1**
- <div style="text-align: center;">
+  <p align="center">
   <img src="src/assets/img-journey-map-angel.png" alt="user persona de Ángel Cisneros"  style="width: 70%;"></img>
- </div>
+  </p>
 
 **Segmento 2**
- <div style="text-align: center;">
+  <p align="center">
  <img src="src/assets/img-journey-map-lucero.png" alt="user persona de Lucero Barrionuevo"  style="width: 70%;"></img>
-</div>
+  </p>
 
 
 # 4.1. Style Guidelines
