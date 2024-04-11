@@ -661,6 +661,228 @@ El impact mapping es una herramienta estratégica que alinea los objetivos del n
 
 <img src="/assets/impact_mapping_angel_cisneros.png" alt="Impact Mapping Angel Cisneros"></img>
 
+# 3.4. Product Backlog 
+
+El product backlog es una lista dinámica que enumera todas las características, mejoras y correcciones que se planean implementar en nuestra plataforma de instalación de postes de fibra óptica. En esta sección, priorizamos estas tareas según su valor para los usuarios y el negocio, lo que nos permite planificar y gestionar eficazmente el desarrollo de la plataforma.
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US15</td>
+      <td>Implementación de HTTPS</td>
+      <td>Como Developer, quiero asegurarme de que todas las comunicaciones entre el navegador del usuario y el servidor estén cifradas mediante HTTPS para proteger la privacidad de los datos.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US19</td>
+      <td>Integración con Pasarelas de Pago</td>
+      <td>Como Developer, quiero integrar la plataforma con pasarelas de pago confiables y seguras para procesar transacciones de suscripción y pagos por servicios adicionales.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US26</td>
+      <td>Autenticación de Usuarios a través de API</td>
+      <td>Como Developer, quiero asegurarme de que todas las comunicaciones entre el navegador del usuario y el servidor estén cifradas mediante HTTPS para proteger la privacidad de los datos.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US27</td>
+      <td>Creación de Nuevos Usuarios a través de API</td>
+      <td>Como Developer, quiero implementar una API que permita a los clientes crear nuevos usuarios en el sistema.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US28</td>
+      <td>Gestión de Proyectos a través de API</td>
+      <td>Como Developer, quiero implementar una API que permita a los clientes gestionar proyectos en el sistema, incluyendo la creación, actualización y eliminación de proyectos.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US29</td>
+      <td>Gestión de Cotizaciones a través de API</td>
+      <td>Como Developer, quiero implementar una API que permita a los clientes gestionar cotizaciones en el sistema, incluyendo la creación, actualización y eliminación de cotizaciones.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US16</td>
+      <td>Política y Gestión de Contraseñas</td>
+      <td>Como usuario, quiero que se apliquen políticas de gestión de contraseñas para garantizar la seguridad de mi cuenta.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>8</td>
+      <td>US20</td>
+      <td>Gestión de suscripciones</td>
+      <td>Como usuario de la plataforma, quiero poder gestionar mi suscripción, ver detalles sobre mi plan actual y realizar cambios si es necesario.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US17</td>
+      <td>Desarrollo de documentación detallada</td>
+      <td>Como usuario, quiero tener acceso a documentación detallada que describa todas las funciones y características de la plataforma para resolver cualquier duda o problema que pueda surgir.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US11</td>
+      <td>Notificaciones personalizadas</td>
+      <td>Como usuario, quiero recibir notificaciones personalizadas sobre actualizaciones relevantes y eventos importantes.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US07</td>
+      <td>Recepción de Solicitudes Cotización</td>
+      <td>Como empresa de instalación de postes, quiero recibir solicitudes de cotización de las empresas de telecomunicaciones interesadas en mis servicios.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US08</td>
+      <td>Gestión de Proyectos Asignados</td>
+      <td>Como empresa de instalación de postes, quiero poder gestionar los proyectos asignados de manera efectiva para garantizar su finalización exitosa.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US09</td>
+      <td>Comunicación con los clientes</td>
+      <td>Como empresa de instalación de postes, quiero poder comunicarme de manera efectiva con mis clientes a través de la plataforma.
+</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US12</td>
+      <td>Diseño Responsivo</td>
+      <td>Como usuario, quiero que la interfaz se adapte automáticamente a diferentes dispositivos y tamaños de pantalla para una experiencia consistente en cualquier dispositivo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Mejora de la navegación</td>
+      <td>Como usuario, quiero una navegación clara y consistente para poder encontrar rápidamente la información que necesito.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US14</td>
+      <td>Optimización de la velocidad</td>
+      <td>XComo usuario, quiero que las páginas carguen rápidamente para poder acceder a la información y funciones sin demoras.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US21</td>
+      <td>Implementación de Diseño Responsivo</td>
+      <td>Como Developer, quiero implementar un diseño responsivo en el sitio web para garantizar una experiencia de usuario óptima en todos los dispositivos y tamaños de pantalla.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US22</td>
+      <td>Optimización para SEO</td>
+      <td>Como Developer, quiero optimizar el contenido de la landing page y las páginas estáticas para mejorar el posicionamiento en los motores de búsqueda y aumentar la visibilidad en línea.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US24</td>
+      <td>LLamado a la Acción (Call-to-Action) Efectivo</td>
+      <td>Como visitante del sitio web, quiero encontrar un llamado a la acción efectivo en la landing page que me invite a realizar una acción específica</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US23</td>
+      <td>Diseño atractivo y profesional</td>
+      <td>Como visitante del sitio web, quiero encontrar un diseño atractivo y profesional en la landing page y en todas las páginas estáticas para generar confianza en la marca.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US25</td>
+      <td>Elementos visuales y atractivos</td>
+      <td>Como visitante del sitio web, quiero encontrar elementos visuales atractivos en la landing page, como imágenes de alta calidad o videos relevantes, para mantener mi atención y mejorar la experiencia de usuario.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US01</td>
+      <td>Registro de nuevo Usuario</td>
+      <td>Como visitante al sitio web, quiero poder registrarme como usuario para acceder a las funciones de la plataforma.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US02</td>
+      <td>Inicio de Sesión de Usuario</td>
+      <td>Como usuario registrado, quiero poder iniciar sesión en mi cuenta para acceder a las funciones.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US03</td>
+      <td>Gestión de Perfil de Usuario</td>
+      <td>Como usuario registrado, quiero poder editar mi perfil y actualizar mi información personal.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US04</td>
+      <td>Búsqueda por ubicación</td>
+      <td>Como usuario, quiero poder buscar empresas de instalación de postes por ubicación para encontrar opciones cercanas a una área específica.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US05</td>
+      <td>Filtrado por servicios ofrecidos</td>
+      <td>Como usuario, quiero poder filtrar las empresas de instalación de postes por los servicios específicos que ofrecen.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>US06</td>
+      <td>Visualización de resultados de búsqueda</td>
+      <td>Como usuario, quiero poder ver los resultados de mi búsqueda de manera clara y ordenada.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>US10</td>
+      <td>Calificación y Comentarios sobre Empresas</td>
+      <td>Como usuario, quiero poder calificar y dejar comentarios sobre las empresas de instalación de postes con las que he trabajado para ayudar a otros usuarios en sus decisiones.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>US18</td>
+      <td>Creación de Foro de usuarios</td>
+      <td>Como usuario de la plataforma, quiero tener acceso a un foro de usuarios donde pueda hacer preguntas, intercambiar ideas y compartir experiencias con otros usuarios.</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
