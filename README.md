@@ -219,7 +219,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-Nuestra StartUp "PostNetQuote" consiste en una pagina web dedicada al funcionamiento del servicio de instalación para postes de fibra óptica en Perú y gestión de proyectos de infraestructura de telecomunicaciones. El sitio web funcionará bajo un modelo de negocio por suscripción, dirigido principalmente a empresas de postes que deseen aumentar su visibilidad y captar clientes. Estas empresas se suscribiran para poder hacer uso de la plataforma y poder conseguir los trabajos y servicios. Por otro lado, los usuarios finales, que no incurriran en costos por suscripcion, estos tendran acceso a la informacion y servicios de la pagina.
+Nuestra StartUp "PostNetQuote" consiste en una aplicación web dedicada al funcionamiento del servicio de instalación para postes de fibra óptica en Perú y gestión de proyectos de infraestructura de telecomunicaciones. El sitio web funcionará bajo un modelo de negocio por suscripción, dirigido principalmente a empresas de postes que deseen aumentar su visibilidad y captar clientes. Estas empresas se suscribiran para poder hacer uso de la plataforma y poder conseguir los trabajos y servicios. Por otro lado, los usuarios finales, que no incurriran en costos por suscripcion, estos tendran acceso a la informacion y servicios de la aplicación.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -356,9 +356,9 @@ Según un informe de Point Topic, en el último trimestre de 2022, Perú experim
 
 Esto supone una gran responsabilidad para las empresas de telecomunicaciónes que se encargan de proveer este servicio a todo el país, ya que tienen que ofrecer los mejores servicios y comodidades a los usuarios finales. Además, también supone una gran duda para los usuarios que desean contratar esta tecnología, ya que deberán comparar las diferentes opciones y seleccionar la que más le convenga entre todas.
 
-Sin embargo, no existe hasta el momento una pagina web totalmente dedicada a brindar esta información de forma simple e intuitiva, carencia que afecta directamente tanto a las empresas, que muchas no son tomadas en cuenta, como a los usuarios finales, quieren no contemplan todas las opciones existentes en el mercado.
+Sin embargo, no existe hasta el momento una aplicación web totalmente dedicada a brindar esta información de forma simple e intuitiva, carencia que afecta directamente tanto a las empresas, que muchas no son tomadas en cuenta, como a los usuarios finales, quieren no contemplan todas las opciones existentes en el mercado.
 
-Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a facilitar la visibilidad de las diferentes empresas que proveen los servicios de instalación de fibra óptica en el Perú.
+Nuestra StartUp "PostNetQuote" se centra en crear una aplicación web que ayude a facilitar la visibilidad de las diferentes empresas que proveen los servicios de instalación de fibra óptica en el Perú.
 
 -   **What?**
 
@@ -366,7 +366,7 @@ Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a fac
 
 -   **When?**
 
-    El problema surge cuando las empresas de telecomunicaciones no cuentan con una pagina web en donde se les de visibilidad a su información y las personas que desean contratarlas no saben que opción les conviene más.
+    El problema surge cuando las empresas de telecomunicaciones no cuentan con una aplicación web en donde se les de visibilidad a su información y las personas que desean contratarlas no saben que opción les conviene más.
 
 -   **Where?**
 
@@ -378,7 +378,7 @@ Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a fac
 
 -   **Why?**
 
-    Uno de los principales motivos de este problema es la ausencia de una pagina web que permite la facil y eficaz interacción entre los 2 segmentos objetivos.
+    Uno de los principales motivos de este problema es la ausencia de una aplicación web que permite la facil y eficaz interacción entre los 2 segmentos objetivos.
 
 -   **How?**
 
@@ -393,7 +393,45 @@ Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a fac
 
 - En la actualidad, la conexión mediante fibra óptica es la conexión que más se usa a nivel mundial, debido a sus grandes ventajas, como la increible velocidad que ofrece a diferencia de las demás tecnologías. 
   En los últimos años, Perú ha sufrido un exponencial crecimiento de implementación de la conexión por fibra óptica, siendo solo superado por Alemania. Esto conlleva a que las empresas de telecomunicaciones tengan una gran responsabilidad, que es ofrecer a toda la población la oportunidad de unirse a este desarrollo. Por tal motivo, los usuarios finales, tambien tienen el derecho de poder contemplar toda la información de dichas empresas, comparar tal información y elegir la opción que más le convenga y convenza.
-  Nuestra pagina web tiene como objetivo servir como puente entre las empresas de telecomunicaciones y los usuarios que requieren tener el conocimiento de estas empresas para poder cumplir su objetivo de contratar esta tecnología.
+  Nuestra aplicación web tiene como objetivo servir como puente entre las empresas de telecomunicaciones y los usuarios que requieren tener el conocimiento de estas empresas para poder cumplir su objetivo de contratar esta tecnología.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions:**
+1. Creemos que nuestros usuarios necesitan un medio que sea eficiente e intuitivo para poder determinar la compañia de telecomunicaciónes que van a contratar basandose en los criterios que ellos crean necesarios.
+2. Esta necesidad se puede satisfacer con el desarrollo de una aplicación web que permitirá el registro de las compañias de telecomunicaciones, las cuales proveeran información sobre sus servicios, así como sus ventajas y por qué deberian elegirlos a ellos por encima del resto. Además que esta información será visible para todo el públicos, los cuales podrán comparar las compañias entre sí para poder realizar una elección más precisa.
+3. Nuestros clientes iniciales serán las personas interesadas en contar con la tecnología de fibra óptica.
+4. Lo principal que buscará un cliente en nuestro servicio será contar con toda la información de las empresas registradas, detallando y resaltando sus planes ofrecidos y sus ventajas.
+5. Vamos a obtener ingresos mediante la suscripción de las compañias que deseen figurar en nuestra aplicación web.
+6. Vamos a tener ventaja sobre nuestra competencia debido a que nuestra aplicación web contará con la opción de comparar los planes de las distincas compañías, resaltando sus características más importantes y sus ventajas frente a la competencia.
+
+**Business outcomes:**
+
+- Con la gran ayuda que ofreceremos a nuestro público objetivo con nuestra aplicación web, nos posicionaremos como la aplicación web lider en nuestro rubro.
+
+- Con el éxito y eficacia de nuestra aplicación, las suscripciones de pago nos harán capaces de generar ingresos suficientes para el total mantenimiento de la aplicación web y como beneficio propio de los miembros de la StartUp.
+
+- Debido al éxito de nuestra aplicación web, el desarrollo a nivel nacional del uso de la fibra óptica no se verá estancado y seguirá su linea de crecimiento como en los últimos años.
+
+- Gracias a nuestra aplicación web, las empresas se verán obligadas a mejorar y pulir sus servicios ofrecidos, ya que la competencia crecerá y los usuarios serán más exigentes con el correcto funcionamiento de los servicios contratados.
+
+**Users:**
+- Empresas de telecomunicaciones.
+- Personas en Perú interesadas en contratar la tecnología de fibra óptica.
+
+
+**Users outcomes:**
+- Ampliar la visibilidad de las empresas de telecomunicaciones en Perú, destacando las opciones y ventajas de sus servicios ofrecidos.
+- Fomentar más competencia entre las distintas empresas de telecomunicaciones, ayudando a que se motiven entre sí para mejorar sus servicios ofrecidos.
+- Ayudar a las personas interesadas en la contratación de la fibra óptica a contemplar todas las opciones posibles, para una elección que vaya acorde a lo que buscan.
+- Fomentar que las personas que no saben sobre esta tecnología se interesen por esta y puedan informarse debidamente.
+
+**Features:**
+- Creemos que nuestra aplicación debe contar con un sistema de inscripción mediante suscripción para las empresas que deseen figurar en nuestra aplicación web.
+- Creemos que nuestra aplicación debe proporcionar la visualización de información, planes y ventajas de las distintas empresas que figuren en la aplicación web.
+- Creemos que nuestra aplicación debe implementar un sistema de comparación de información entre compañias.
+- Creemos que nuestra aplicación debe contar con un sistema de cotización previa y medio de contacto con la empresa elegida.
+- Creemos que debemos ser capaces de resolver las dudas más frecuentes con relación esta tecnología mediante nuestra aplicación web.
 
 # 4.1. Style Guidelines
 
@@ -412,7 +450,7 @@ Nuestra arquitectura de información se estructura alrededor de sistemas de orga
 Nuestro sistema de etiquetado está diseñado para claridad y simplicidad. Utilizamos etiquetas intuitivas y descriptivas para grupos de información y enlaces, reduciendo la ambigüedad y mejorando la navegación. Cada etiqueta es el resultado de un análisis detallado de la terminología más comprensible para nuestro público objetivo, asegurando que la estructura de la información sea fácil de entender y seguir.
 
 ## 4.2.3. SEO Tags and Meta Tags
-Optimizamos nuestro sitio web para motores de búsqueda a través de un uso estratégico de SEO tags y meta tags. Para cada página principal, definimos títulos únicos y descripciones meta que reflejan el contenido y las keywords clave. Esto mejora la visibilidad y el ranking en resultados de búsqueda. Además, implementamos tags para redes sociales, asegurando que el contenido compartido se vea atractivo y sea coherente con nuestra marca.
+Optimizamos nuestro sitio web para motores de búsqueda a través de un uso estratégico de SEO tags y meta tags. Para cada aplicación principal, definimos títulos únicos y descripciones meta que reflejan el contenido y las keywords clave. Esto mejora la visibilidad y el ranking en resultados de búsqueda. Además, implementamos tags para redes sociales, asegurando que el contenido compartido se vea atractivo y sea coherente con nuestra marca.
 
 ## 4.2.4. Searching Systems
 Para mejorar la búsqueda de información dentro de nuestro producto digital, implementamos sistemas de búsqueda avanzada con opciones de filtrado por categoría, fecha, y tipo de contenido. Nuestro objetivo es minimizar el tiempo que los usuarios pasan buscando información, proporcionando resultados relevantes y organizados de manera intuitiva. Estos sistemas se diseñan pensando en la facilidad de uso, con sugerencias de búsqueda y corrección automática de errores comunes de entrada.
