@@ -177,19 +177,19 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         - 
         <br><br> 
          <b>Rodrigo Enrique Zagaceta Bardales</b><br>
-        - 
+        - Se llevaron a cabo las historias de usuario siguiendo una planificación y asignando los puntos correspondientes para garantizar una elaboración eficiente. Posteriormente, fueron adecuadamente ubicadas en el backlog del producto, utilizando los story points para su clasificación y priorización.
         <br><br>
         <b>Luis Sebastian Chavez Guerrero</b><br>
         - 
         <br><br> 
         <b>Jean Franco Joel Barrionuevo Reto</b><br>
-        - 
+        - Como encargado de los competidores, realicé un análisis exhaustivo y desarrollé estrategias y tácticas para enfrentarlos. Este trabajo permitió obtener un entendimiento profundo de la competencia, identificar oportunidades y amenazas en el mercado, y entender mejor el panorama competitivo.
         <br><br>
         <b>Erick Armando Cueva Elera</b><br>
-        - 
+        - Como encargado de la primera parte del informe que envuelve toda la explicación de la startup, coordine con todo el equipo para desarrollar la correcta definicion del proyecto, comunicandonos las ideas principales y tomanda en cuenta todas nuestras opiniones.
         <br><br>
    </td>
-    <td><br><br>
+    <td>Es necesaria la comunicación entre los integrantes del equipo para la correcta definición sobre lo que va a tratar nuestra startut y poder realizar de manera correcta las entrevistar necesarias a los segmentos objetivos.<br><br>
   </td>
   </tr>
   <tr>
@@ -199,19 +199,19 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         - 
         <br><br> 
          <b>Rodrigo Enrique Zagaceta Bardales</b><br>
-        -
+        - Se llevaron a cabo las historias de usuario siguiendo una planificación y asignando los puntos correspondientes para garantizar una elaboración eficiente. Posteriormente, fueron adecuadamente ubicadas en el backlog del producto, utilizando los story points para su clasificación y priorización.
         <br><br>
         <b>Luis Sebastian Chavez Guerrero</b><br>
         - 
         <br><br> 
         <b>Jean Franco Joel Barrionuevo Reto</b><br>
-        - 
+        - Con la información recopilada, se realizó un proceso de “Needfinding”. Este proceso implicó la identificación y comprensión de las necesidades de los usuarios para poder desarrollar soluciones más efectivas.
         <br><br>
         <b>Erick Armando Cueva Elera</b><br>
-        - 
+        - Con la información debatida con el resto de integrantes del grupo, me encargué de plasmar de manera clara y concisa la información en la primera parte de nuestro reporte, intentando que los lectores encuentren nuestro informe ameno para el entendimiento.
         <br><br>
    </td>
-    <td><br><br>
+    <td>Debemos realizar la escritura del informe de manera correcta, para poder lograr que quien quiera entender sobre los inicios de nuestro proyecto, pueda hacerlo de forma amena y sin confusión a la hora de leer nuestro informe.<br><br>
   </td>
   </tr>
 </table>
