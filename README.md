@@ -156,6 +156,66 @@
 
 <br><br>
 
+# Student Outcome
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
+    <td> TB1<br><br>
+         <b>Carlos Edward Avellaneda Ramos </b><br>
+        - 
+        <br><br> 
+         <b>Rodrigo Enrique Zagaceta Bardales</b><br>
+        - 
+        <br><br>
+        <b>Luis Sebastian Chavez Guerrero</b><br>
+        - 
+        <br><br> 
+        <b>Jean Franco Joel Barrionuevo Reto</b><br>
+        - 
+        <br><br>
+        <b>Erick Armando Cueva Elera</b><br>
+        - 
+        <br><br>
+   </td>
+    <td><br><br>
+  </td>
+  </tr>
+  <tr>
+    <td><b>Comunica por escrito con efectividad a diferentes rangos de audiencia.</b></td>
+    <td> TB1<br><br>
+         <b>Carlos Edward Avellaneda Ramos</b><br>
+        - 
+        <br><br> 
+         <b>Rodrigo Enrique Zagaceta Bardales</b><br>
+        -
+        <br><br>
+        <b>Luis Sebastian Chavez Guerrero</b><br>
+        - 
+        <br><br> 
+        <b>Jean Franco Joel Barrionuevo Reto</b><br>
+        - 
+        <br><br>
+        <b>Erick Armando Cueva Elera</b><br>
+        - 
+        <br><br>
+   </td>
+    <td><br><br>
+  </td>
+  </tr>
+</table>
+
+<br><br>
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
