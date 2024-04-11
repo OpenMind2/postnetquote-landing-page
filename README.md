@@ -6,27 +6,28 @@ Luego de realizar una investigación en el mercado peruano, hemos hallado tres p
 1. **Claro:**
 
    Es uno de los principales proveedores de servicios de telecomunicaciones en Perú. Ofrecen fibra óptica para hogares y empresas en diversas regiones del país.
-   
- <div style="text-align: center;">
-    <img src="src/assets/img-claro-logo.jpg" alt="logo de claro" style="width: 20%;"></img>
-</div>
+
+<p align="center">
+  <img src="src/assets/img-claro-logo.jpg" alt="logo de claro" width="20%" />
+</p>
+
 
 2. **WIN:**
 
    Es una empresa de telecomunicaciones peruana que ofrece una red de transmisión totalmente de fibra óptica, desde su centro de distribución principal hasta la ONT del cliente
 
-  <div style="text-align: center;">
+  <p align="center">
     <img src="src/assets/img-win-logo.jpg" alt="logo de win" style="width: 20%;"></img>
-  </div>
+  </p>
 
 3. **Optical Networks:**
 
    Es una empresa peruana de telecomunicaciones que cuenta con más de 20 años de experiencia en el sector de las telecomunicaciones y las tecnologías de la información para el segmento B2B. Proporcionan servicios de infraestructura de telecomunicaciones, TI y energía.
    
 
-   <div style="text-align: center;">
+   <p align="center">
     <img src="src/assets/img-optical-networks-logo.jpg" alt="logo de opticalnetworks" style="width: 20%;"></img>
-</div>
+  </p>
 
 ### 2.1.1. Análisis competitivo
 
@@ -45,27 +46,27 @@ Luego de realizar una investigación en el mercado peruano, hemos hallado tres p
     <td colspan="2"></td>
     <td colspan="1" valign="top" style="font-weight: bold;">
         Claro
-<div style="text-align: center;">
+  <p align="center">
     <img src="src/assets/img-claro-logo.jpg" alt="logo de claro" style="width: 60%;"></img>
-</div>
+  </p>
         
   <td colspan="1" valign="top" style="font-weight: bold;">
     Win
-<div style="text-align: center;">
+<p align="center">
     <img src="src/assets/img-win-logo.jpg" alt="logo de win" style="width: 70%;"></img>
-</div>
+</p>
 </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Optical Networks
-<div style="text-align: center;">
+<p align="center">
       <img src="src/assets/img-optical-networks-logo.jpg" alt="logo de optical networks" style="width: 50%;"></img>
-</div>
+</p>
 </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       PostNetQuote
-<div style="text-align: center;">
+<p align="center">
       <img src="src/assets/img-postnetquote-logo.png" alt="logo de PostNetQuote" style="width: 65%;"></img>
-</div>
+</p>
     </td>
   </tr>
   <tr>
@@ -245,9 +246,9 @@ Distrito: Lince
 
 Evidencia de la reunión:
 
-<div style="text-align: center;">
+<p align="center">
   <img src="src/assets/img-entrevista-angel.jpeg" alt="entrevistado 01 Ángel" style="width: 25%;">
-</div>
+</p>
 
 Duración: 12:31
 
@@ -281,9 +282,9 @@ Edad: 22 años
 Distrito: Pueblo Libre
 
 Evidencia de la reunión:
- <div style="text-align: center;">
+ <p align="center">
    <img src="src/assets/img-entrevista-lucero.jpeg" alt="entrevistado 02 Ana Lucero" style="width: 25%;"> 
-</div>
+</p>
 
 
 Duracion: 7:43
@@ -312,9 +313,9 @@ Distrito: Pueblo Libre
 
 Evidencia de la reunión:
 
-<div style="text-align: center;">
+<p align="center">
   <img src="src/assets/img-entrevista-adriana.png" alt="entrevistado 03 Adriana Lizeth" style="width: 20%;">
-</div>
+</p>
 
 Duración: 5:40
 
