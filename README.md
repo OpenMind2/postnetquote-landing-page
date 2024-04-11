@@ -432,7 +432,7 @@ Dado que el usuario tiene una pregunta específica que no se encuentra en la doc
 Cuando contacta al equipo de soporte a través de la plataforma.
 Entonces recibe una respuesta rápida y detallada del equipo de soporte para resolver su pregunta o problema.
 </td>
-    <td>E06</td>
+    <td>E07</td>
   </tr>
     </tr>
       <td>US18</td>
