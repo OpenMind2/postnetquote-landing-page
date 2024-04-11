@@ -231,6 +231,121 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestro s
 3. ¿Tienes alguna preocupación o consideración sobre la seguridad de tus datos al utilizar un sitio web en línea para gestionar proyectos y servicios de instalación de postes de fibra óptica?
 
 
+### 2.2.2. Registro de entrevistas
+
+<span style="font-size: 20px;">**Segmento 01**</span>
+
+**Entrevista 01**
+
+Nombre: Ángel
+
+Edad: 31 años
+
+Distrito: Lince
+
+Evidencia de la reunión:
+
+<div style="text-align: center;">
+  <img src="src/assets/img-entrevista-angel.jpeg" alt="entrevistado 01 Ángel" style="width: 25%;">
+</div>
+
+Duración: 12:31
+
+Enlace de entrevista: [https://www.youtube.com/watch?v=J6JVWyPkIjY&ab_channel=crhlatinoxD](https://www.youtube.com/watch?v=J6JVWyPkIjY&ab_channel=crhlatinoxD)
+
+Resumen de la entrevista:
+
+
+La entrevista aborda el proceso y las fases involucradas en la realización de un proyecto de tendido de fibra óptica, desde la concepción inicial hasta la finalización y entrega al cliente, incluyendo el uso de tecnología y software para mejorar la eficiencia y la comunicación cliente-empresa.
+
+El proyecto inicia con una fase de diseño, donde se realiza un estudio de viabilidad que incluye la recopilación de información a través de fotografías y georreferenciación mediante GPS. Este diseño preliminar se presenta al cliente en documentos de Word con capturas de Google Earth o como un archivo KMZ georreferenciado, junto con un reporte fotográfico.
+
+Además de la fase de diseño, se menciona la importancia de la gestión de permisos, que es vital para la realización del proyecto, especialmente cuando este se ubica cerca de vías públicas o zonas protegidas, requiriendo autorizaciones de diversas entidades como el Ministerio de Cultura o empresas de servicios públicos.
+
+Se destacó la idea de desarrollar un sitio web interactivo que permita a los clientes visualizar el progreso del proyecto y acceder a datos relevantes. Este portal también podría incluir funciones para la gestión de tickets por diferentes grupos de trabajo (como Nitrógenos, Networking, Averías, etc.), asignación de tareas, y reportes de avance, mejorando la comunicación y eficiencia en la gestión de proyectos.
+
+Se habló sobre la posibilidad de automatizar ciertos procesos y utilizar software para controlar el flujo de información y trabajos. La creación de una base de datos flexible, posiblemente utilizando MongoDB, y la consideración de aspectos técnicos como hosting y desarrollo de frontend fueron discutidos como pasos futuros.
+
+Finalmente, se mencionó la intención de estructurar bien el sitio, definiendo los roles de los usuarios y sus funcionalidades para facilitar la interacción y la gestión de datos. El proceso terminaría con el diseño y la implementación de la interfaz de usuario, con un enfoque en la estética y la usabilidad.
+
+<span style="font-size: 20px;">**Segmento 02**</span>
+
+**Entrevista 02**
+
+Nombres: Ana Lucero
+
+Apellidos: Barrionuevo Reto
+
+Edad: 22 años
+
+Distrito: Pueblo Libre
+
+Evidencia de la reunión:
+ <div style="text-align: center;">
+   <img src="src/assets/img-entrevista-lucero.jpeg" alt="entrevistado 02 Ana Lucero" style="width: 25%;"> 
+</div>
+
+
+Duracion: 7:43
+
+Enlace de entrevista: [https://youtu.be/rZdEwrJbjxY](https://youtu.be/rZdEwrJbjxY)
+
+Resumen de la entrevista:
+
+Se entrevistó a Lucero Barrionuevo, una joven de 22 años que reside en Lima, Perú, trabaja en una empresa de telecomunicaciones especializada en la instalación de infraestructura de fibra óptica.
+Mencionó que tiene experiencia en proyectos de infraestructura y está familiarizada con la instalación de postes de fibra óptica.
+También comentó que valora la experiencia previa y las habilidades técnicas sólidas al contratar personal.
+Considera importante la flexibilidad de horarios para empleos temporales.
+Además, respecto al proyecto propuesto, cree que sería útil tanto para las empresas de postes como para los usuarios, sugiriendo características adicionales como un servicio personalizado y herramientas de seguimiento de proyectos.
+Finalmente, no mostró preocupaciones significativas sobre la seguridad de los datos en el sitio web.
+
+
+**Entrevista 03**
+
+Nombres: Adriana Lizeth
+
+Apellidos: García Bardales
+
+Edad: 28 años
+
+Distrito: Pueblo Libre
+
+Evidencia de la reunión:
+
+<div style="text-align: center;">
+  <img src="src/assets/img-entrevista-adriana.png" alt="entrevistado 03 Adriana Lizeth" style="width: 20%;">
+</div>
+
+Duración: 5:40
+
+Enlace de entrevista: [https://youtu.be/F3mO6B6Ll7s](https://youtu.be/F3mO6B6Ll7s)
+
+Resumen de la entrevista:
+
+
+Adriana Lizeth comparte su rol como animadora independiente y sus preferencias de contratación.
+Valora la responsabilidad, la proactividad y la puntualidad, pero también ha tenido experiencias positivas con trabajadores sin experiencia que aprenden rápido.
+Agrega que el proyecto será útil, ya que puede ayudar a las empresas a aumentar su visibilidad y captar más clientes.
+Sugiere agregar funciones como servicio personalizado y programación de recordatorios para que la plataforma sea más efectiva.
+Finalmente, expresa que no tiene mayores preocupaciones sobre la seguridad de los datos en un sitio web si se agrega algo al mismo.
+
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Empresas de telecomunicaciones**
+
+Las entrevistas con las empresas de de telecomunicaciones arrojaron una variedad de perspectivas sobre el proceso de gestión de proyectos y la utilidad del sitio web.
+Se destaca la necesidad de aumentar la visibilidad y captar clientes para los servicios de instalación de postes de fibra óptica, así como la importancia de superar obstáculos habituales en la gestión de proyectos de infraestructura de telecomunicaciones.
+Los entrevistados describen los servicios y proyectos que ofrecen sus empresas, así como los factores que influyen en la fijación de precios para dichos servicios.
+Recomendaron que el sitio web dedicada debe ofrecer características esenciales como facilidad de uso, variedad de oportunidades de negocio y seguridad de los datos para atraer a las empresas de postes como suscriptores.
+
+**Segmento 2: Clientes**
+
+Las entrevistas nos ofrecieron una variedad de perspectivas sobre la contratación y la utilidad del servicio. Se destacó la importancia de la experiencia previa y las cualidades personales al momento de contratar a alguien para un proyecto o empleo temporal.
+Los entrevistados expresan preferencia por trabajadores especializados, pero también consideran a aquellos sin experiencia previa si demuestran entusiasmo y potencial.
+Además, se resalta la flexibilidad de horarios como un factor importante en la decisión de contratación.
+En relación con la propuesta del sitio web PostNetQuote, valoran su utilidad potencial para las empresas de postes y los usuarios, destacando la importancia de características adicionales como un sistema de búsqueda avanzada y medidas de seguridad de datos sólidas.
+
 
 # 4.1. Style Guidelines
 
