@@ -1,3 +1,53 @@
+# <center>COURSE PROJECT</center>
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
+    <br>INFORME DE TRABAJO FINAL - TB1
+</p>
+
+<p align="center">
+    <strong>Startup: OpenMind</strong><br>
+    <strong>Producto: PostNetQuote</strong>
+</p>
+
+<div style="text-align:center;">
+    <h3>Team Members:</h3>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Avellaneda Ramos, Carlos Edward</td>
+            <td>U201923994</td>
+        </tr>
+        <tr>
+            <td>Chavez Guerrero, Luis Sebastian</td>
+            <td>U202216444</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>U202215489</td>
+        </tr>
+        <tr>
+            <td>Barrionuevo Reto, Jean Franco Joel</td>
+            <td>U202219284</td>
+        </tr>
+        <tr>
+            <td>Cueva Elera, Erick Armando</td>
+            <td>U201910151</td>
+        </tr>
+    </table>
+</div>
+<br>
+
+
+
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
