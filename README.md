@@ -144,6 +144,91 @@ Luego de realizar una investigación en el mercado peruano, hemos hallado tres p
 </tr>
 </table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Usaremos estrategias y tácticas que aprovechen nuestras fortalezas y oportunidades y poder sacar ventaja de las debilidades y amenazas de nuestros competidores. Por lo mismo nuestras estrategias son las siguientes:
+
+## Estrategias y tácticas frente a competidores:
+
+### Análisis FODA de nuestro negocio:
+- **Fortalezas (F):**
+  - Experiencia especializada en el despliegue de infraestructura de fibra óptica en Perú.
+  - Modelo de negocio por suscripción que ofrece ingresos recurrentes y estabilidad financiera.
+  - Plataforma dedicada que facilita la gestión de proyectos de infraestructura de telecomunicaciones para empresas de postes.
+
+- **Oportunidades (O):**
+  - Crecimiento continuo en la demanda de servicios de infraestructura de telecomunicaciones en Perú.
+  - Potencial para expandir nuestros servicios a nuevos mercados y sectores dentro de la industria de las telecomunicaciones.
+
+- **Debilidades (D):**
+  - Limitaciones presupuestarias para promoción y marketing para aumentar la visibilidad de nuestra plataforma.
+  - Competencia potencial de otros proveedores de servicios de infraestructura de telecomunicaciones en el mercado.
+
+- **Amenazas (A):**
+  - Posibilidad de la entrada de nuevos competidores en el mercado de infraestructura de telecomunicaciones en Perú.
+  - Riesgo de perder clientes ante la competencia de otras plataformas o proveedores de servicios similares.
+
+### Estrategias y tácticas:
+1. **Diferenciación de servicios:**
+- Destacarnos ofreciendo herramientas especializadas para la gestión de proyectos de infraestructura de telecomunicaciones, como seguimiento de progreso, asignación de recursos y comunicación en tiempo real entre equipos.
+
+2. **Campañas de marketing digital:**
+- Ejecutar campañas publicitarias dirigidas a empresas de postes de telecomunicaciones en Perú a través de marketing de contenido, anuncios en redes sociales y campañas de correo electrónico para aumentar la conciencia de nuestra plataforma y sus beneficios.
+
+3. **Alianzas estratégicas:**
+- Establecer asociaciones con empresas de telecomunicaciones y proveedores de servicios relacionados para ofrecer servicios integrados y ampliar nuestra base de clientes potenciales.
+
+4. **Desarrollo de comunidad:**
+- Crear una comunidad en línea para empresas de postes y profesionales de la industria de telecomunicaciones donde puedan intercambiar conocimientos, compartir experiencias y acceder a recursos exclusivos proporcionados por nuestra plataforma.
+
+5. **Optimización de la experiencia del usuario:**
+- Mejorar continuamente la usabilidad y funcionalidad de nuestra plataforma para garantizar una experiencia de usuario óptima y aumentar la retención de clientes.
+
+6. **Análisis de datos y retroalimentación del cliente:**
+- Utilizar análisis de datos para comprender mejor las necesidades y preferencias de nuestros clientes, y recopilar retroalimentación regular para iterar y mejorar nuestros servicios según las demandas del mercado.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestro segmento objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas demográficas:**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ubicación?
+4. ¿Cuál es tu ocupación actual o en qué industria trabajas?
+
+**Preguntas sobre personalidad**
+
+1. ¿Tienes experiencia en la industria de las telecomunicaciones o en proyectos de infraestructura?
+2. ¿Qué nivel de familiaridad tienes con la instalación de postes de fibra óptica?
+
+**Preguntas Segmento 1: Empresas de telecomunicaciones**
+
+1. ¿Ha tenido dificultades para aumentar su visibilidad y captar clientes para sus servicios de instalación de postes de fibra óptica?
+2. ¿Qué obstáculos encuentra habitualmente al gestionar proyectos de infraestructura de telecomunicaciones?
+3. ¿Qué tipo de servicios o proyectos de instalación de postes de fibra óptica ofrece su empresa?
+4. ¿Cómo establece los precios para sus servicios? ¿Qué factores influyen en esta decisión?
+5. ¿Qué características o funcionalidades consideraría esenciales en una plataforma en línea dedicada a la gestión de proyectos y la captación de clientes para servicios de instalación de postes?
+6. ¿Qué aspectos valoraría más al suscribirse a una plataforma como la nuestra? ¿La facilidad de uso, la variedad de oportunidades de negocio, la seguridad de los datos?
+
+**Segmento 2: Clientes**
+
+1. ¿Qué consideras importante al momento de contratar a alguien?
+2. ¿Consideras que la experiencia previa es importante?
+3. ¿Prefieres contratar a trabajadores especializados o considerarías a aquellos sin experiencia previa?
+4. ¿Cuáles son las cualidades o habilidades clave que buscas al contratar a un trabajador para un empleo eventual o proyecto?
+5. ¿Qué factores influyen en tu decisión de contratar a alguien que carece de experiencia laboral pero muestra entusiasmo y potencial?
+6. ¿Has tenido experiencias previas con trabajadores jóvenes o sin experiencia? ¿Cuáles fueron los aspectos positivos y los desafíos?
+7. ¿Qué tan importante es la flexibilidad de horarios en los candidatos que consideras para empleos temporales?
+
+
+**Para mejorar la idea del negocio**
+
+1. ¿Qué opinas sobre la idea de nuestro proyecto? ¿Crees que sería útil para las empresas de postes y los usuarios?
+2. ¿Qué características adicionales te gustaría ver en nuestro sitio web para que sea más útil o atractivo para ti?
+3. ¿Tienes alguna preocupación o consideración sobre la seguridad de tus datos al utilizar un sitio web en línea para gestionar proyectos y servicios de instalación de postes de fibra óptica?
 
 
 
