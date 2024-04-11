@@ -388,6 +388,13 @@ Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a fac
 
     Según el informe de Point Topic, en el último trimestre de 2022, Perú experimentó un crecimiento del 16.2% en conexión a internet fijo con fibra óptica Esto nos puede dar indicios de que el problema planteado puede ser bastante común debido a la gigantesca demanda de la contratación de estos servicios.
 
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+- En la actualidad, la conexión mediante fibra óptica es la conexión que más se usa a nivel mundial, debido a sus grandes ventajas, como la increible velocidad que ofrece a diferencia de las demás tecnologías. 
+  En los últimos años, Perú ha sufrido un exponencial crecimiento de implementación de la conexión por fibra óptica, siendo solo superado por Alemania. Esto conlleva a que las empresas de telecomunicaciones tengan una gran responsabilidad, que es ofrecer a toda la población la oportunidad de unirse a este desarrollo. Por tal motivo, los usuarios finales, tambien tienen el derecho de poder contemplar toda la información de dichas empresas, comparar tal información y elegir la opción que más le convenga y convenza.
+  Nuestra pagina web tiene como objetivo servir como puente entre las empresas de telecomunicaciones y los usuarios que requieren tener el conocimiento de estas empresas para poder cumplir su objetivo de contratar esta tecnología.
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
