@@ -463,6 +463,18 @@ Nuestra StartUp "PostNetQuote" se centra en crear una aplicación web que ayude 
 
 <img src="src/assets/lean-ux-canvas.jpg" alt="Lean UX Canvas"/>
 
+## 1.3. Segmentos Objetivo
+
+Para el correcto desarrollo de nuestro proyecto, hemos reconocido y definido a nuestros segmentos objetivos, con el fin de poder cubrir todas las necesidades que estos nos presenten y poder ofrecer el mejor servicio posible.
+
+**Primer Segmento Objetivo:**
+
+Nuestro primer segmento objetivo consiste en las empresas de telecomunicaciones, que buscan implementar la conexión de fibra óptica a quien la solicite.
+
+**Segundo Segmento Objetivo:**
+
+En nuestro segundo segmento objetivo tenemos a las personas a nivel nacional interesadas en la obtención de la tecnología de fibra óptica.
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
