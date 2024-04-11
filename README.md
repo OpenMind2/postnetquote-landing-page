@@ -455,6 +455,14 @@ Nuestra StartUp "PostNetQuote" se centra en crear una aplicación web que ayude 
   Sabremos que hemos tenido éxito
   Cuando en informes posteriores al lanzamiento de nuestra aplicación se observe un pico de incremento superior a comparación de años anteriores.
 
+- Hypothesis Statement 05:
+  Creemos que nuestra aplicación web servirá como motivación para que las compañias de telecomunicaciones mejoren sus servicios ofrecidos.
+  Sabremos que hemos tenido éxito
+  Cuando las compañias anuncien cambios, mejoras y/o mayores beneficios para los usuarios finales en los primemos 6 meses luego del lanzamiento de nuestra aplicación web.
+#### 1.2.2.4. Lean UX Canvas
+
+<img src="src/assets/lean-ux-canvas.jpg" alt="Lean UX Canvas"/>
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
