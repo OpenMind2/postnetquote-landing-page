@@ -347,6 +347,47 @@ Me considero que soy una persona con la capacidad de trabajar de manera eficient
     </tr>
 </table>
 
+## 1.2. Solution Profile
+### 1.2.1. Antecedentes y problemática
+
+La expansión de fibra optica en el Perú es un fenómeno que año tras año va avanzando a una velocidad increible.
+
+Según un informe de Point Topic, en el último trimestre de 2022, Perú experimentó un crecimiento del 16.2% en conexión a internet fijo con fibra óptica.
+
+Esto supone una gran responsabilidad para las empresas de telecomunicaciónes que se encargan de proveer este servicio a todo el país, ya que tienen que ofrecer los mejores servicios y comodidades a los usuarios finales. Además, también supone una gran duda para los usuarios que desean contratar esta tecnología, ya que deberán comparar las diferentes opciones y seleccionar la que más le convenga entre todas.
+
+Sin embargo, no existe hasta el momento una pagina web totalmente dedicada a brindar esta información de forma simple e intuitiva, carencia que afecta directamente tanto a las empresas, que muchas no son tomadas en cuenta, como a los usuarios finales, quieren no contemplan todas las opciones existentes en el mercado.
+
+Nuestra StartUp "PostNetQuote" se centra en crear una pagina web que ayude a facilitar la visibilidad de las diferentes empresas que proveen los servicios de instalación de fibra óptica en el Perú.
+
+-   **What?**
+
+    El problema principal es la poca visibilidad que tienen las empresas que se encargan de proveer la tecnología de fibra óptica alrededor de todo el Perú y la poca información y forma de contrastar esta información que tienen los usuarios finales.
+
+-   **When?**
+
+    El problema surge cuando las empresas de telecomunicaciones no cuentan con una pagina web en donde se les de visibilidad a su información y las personas que desean contratarlas no saben que opción les conviene más.
+
+-   **Where?**
+
+    El problema reside a nivel nacional, en todas las zonas en donde se desea implementar la fibra óptica.
+
+-   **Who?**
+
+    El problema afecta a ambos sectores, a las empresas de telecomunicaciones y los usuarios finales.
+
+-   **Why?**
+
+    Uno de los principales motivos de este problema es la ausencia de una pagina web que permite la facil y eficaz interacción entre los 2 segmentos objetivos.
+
+-   **How?**
+
+    La problematica se complica cuando existe una gran demanda de empresas de telecomunicaciones, en donde necesitarán los servicios de las empresas de postes y estas no tengan una manera de ofrecer sus servicios en un lugar con visibilidad.
+
+-   **How much?**
+
+    Según el informe de Point Topic, en el último trimestre de 2022, Perú experimentó un crecimiento del 16.2% en conexión a internet fijo con fibra óptica Esto nos puede dar indicios de que el problema planteado puede ser bastante común debido a la gigantesca demanda de la contratación de estos servicios.
+
 # 4.1. Style Guidelines
 
 ## 4.1.1. General Style Guidelines
