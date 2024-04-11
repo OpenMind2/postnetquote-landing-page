@@ -45,7 +45,18 @@
 </div>
 <br>
 
+# Registro de Versiones del Informe
 
+| Versión |   Fecha    |                                Autor                                | Descripción de modificación                                                                                                                                                                                                                      | 
+|:-------:|:----------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|   1.0   | 27/03/2024 |                  Todos los integrantes del equipo                   | Creación del informe en MarkDown. Se añadió la Tabla de Contenidos.                                                                                                                                                                              |
+|   1.1   | 29/03/2024 | Todos los integrantes del equipo | Se añadió el Studen Outcome. Se añadió el Capítulo 1: "Introducción".                                                                                                                                                                            |
+|   1.2   | 01/04/2024 | Todos los integrantes del equipo | Se desarrollaron las preguntas para las entrevistas. Se realizaron las entrevistas. Se realizó el analisis de las entrevistas.                                                                                                                   |
+|   1.3   | 02/04/2024 | Todos los integrantes del equipo | Se realizó el Needfinding y se culminó con el Capítulo 2: "Requirements Elicitation & Analysis"                                                                                                                                                  |
+|   1.4   | 05/04/2024 | Todos los integrantes del equipo | Se realizó el To-Be Scenario Mapping. Se realizaron las User Stories.                                                                                                                                                                            |
+|   1.5   | 06/04/2024 | Todos los integrantes del equipo | Se realizó el Impact Mapping. Se realizó el Product Backlog.                                                                                                                                                                                     |
+|   1.6   | 08/04/2024 | Todos los integrantes del equipo | Se realizó el Style Guideline. Se realizó el Information Arquitecture. Se realizó el Landing Page UI Design. Se realizó el Web Applications UI/UX Design. Se realizó el Web Application Prototyping. Se desarrolló la Landing Page del proyecto. |
+|   1.7   | 10/04/2024 | Todos los integrantes del equipo | Se culminó con los puntos restantes del capitulo 4 "Product Design". Se realizó el Capítulo 5 "Product Implementation, Validation & Deployment". Se realizó el informe de reporte de participación.                                              |
 
 
 # 4.1. Style Guidelines
