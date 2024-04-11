@@ -2,7 +2,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
@@ -80,7 +80,7 @@
     - [1.2.2.2. Lean UX Assumptions]()
     - [1.2.2.3. Lean UX Hypothesis Statements]()
     - [1.2.2.4. Lean UX Canvas]()
-- [1.3. Segmentos objetivo](o)
+- [1.3. Segmentos objetivo]()
 
 ### [Capítulo II: Requirements Elicitation & Analysis]()
 - [2.1. Competidores]()
@@ -215,6 +215,137 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 </table>
 
 <br><br>
+
+# Capítulo I: Introducción
+## 1.1. StartUp Profile
+### 1.1.1. Description de la StartUp
+Nuestra StartUp "PostNetQuote" consiste en una pagina web dedicada al funcionamiento del servicio de instalación para postes de fibra óptica en Perú y gestión de proyectos de infraestructura de telecomunicaciones. El sitio web funcionará bajo un modelo de negocio por suscripción, dirigido principalmente a empresas de postes que deseen aumentar su visibilidad y captar clientes. Estas empresas se suscribiran para poder hacer uso de la plataforma y poder conseguir los trabajos y servicios. Por otro lado, los usuarios finales, que no incurriran en costos por suscripcion, estos tendran acceso a la informacion y servicios de la pagina.
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+    <tr>
+        <td rowspan="3">
+            <img src="src/assets/rodrigo-zagaceta.jpeg" alt="Rodrigo Zagaceta" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td>
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Rodrigo Enrique Zagaceta Bardales
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Acerca de:</b>
+        <br>
+        Soy Rodrigo Zagaceta, estudiante de quinto ciclo de la carrera de Ingeniería de Software. Poseo conocimientos intermedios en programación C + +. Entre mis habilidades poseo la empatía y la puntualidad.
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="3">
+            <img src="src/assets/erick-cueva.jpg" alt="Erick Cueva" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td>
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Erick Armando Cueva Elera
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Acerca de:</b>
+        <br>
+        Soy Erick Cueva, estudiante de la carrera de Ingenieria de Software, cuento con experiencia en el lenguaje C++, además de un enfoque colaborativo y puntual que ayudará al desarrollo de este proyecto en conjunto.
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="3">
+            <img src="src/assets/carlos-avellaneda.jpg" alt="Carlos Avellaneda" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td>
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Carlos Edward Avellaneda Ramos
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Acerca de:</b>
+        <br>
+        Soy Carlos Avellaneda, estudiante de la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Cuento con conocimientos en distintos lenguajes, tales como: Java, C++, Python y conocimientos básicos en C#. Soy una persona bastante proactiva y espero que eso ayude en el desarrollo de nuestra startup grupal. 
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="3">
+            <img src="src/assets/luis-chavez.jpeg" alt="Luis Chavez"  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td>
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Luis Sebastian Chavez Guerrero
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Acerca de:</b>
+        <br>
+        Mi nombre es Luis Sebastian Chavez Guerrero tengo 19 años de edad y actualmente curso el quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC).Tengo conocimientos de diferentes lenguajes de programación como C++ y Java entre otros. 
+Me considero que soy una persona con la capacidad de trabajar de manera eficiente ademas cuento con la habilidad para resolver problemas de la mejor manera posible.
+        </td>
+    </tr>
+     <tr>
+        <td rowspan="3">
+            <img src="src/assets/jean-franco-barrionuevo.jpeg" alt="Jean Barrionuevo"  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td>
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Jean Franco Joel Barrionuevo Reto
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Acerca de:</b>
+        <br>
+        Mi nombre es Jean Franco Barrionuevo, me encuentro en el 5to ciclo de Ingeniería de Software. Decidí estudiar esta carrera porque siempre me ha apasionado el mundo de la tecnología y software en particular.
+        </td>
+    </tr>
+</table>
 
 # 4.1. Style Guidelines
 
