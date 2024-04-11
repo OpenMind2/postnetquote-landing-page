@@ -347,6 +347,137 @@ Los entrevistados expresan preferencia por trabajadores especializados, pero tam
 Además, se resalta la flexibilidad de horarios como un factor importante en la decisión de contratación.
 En relación con la propuesta del sitio web PostNetQuote, valoran su utilidad potencial para las empresas de postes y los usuarios, destacando la importancia de características adicionales como un sistema de búsqueda avanzada y medidas de seguridad de datos sólidas.
 
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+**Segmento 1**
+
+ <div style="text-align: center;">
+ <img src="src/assets/img-user-persona-angel.png" alt="user persona de Ángel Cisneros"  style="width: 70%;"></img>
+ </div>
+
+**Segmento 2**
+
+ <div style="text-align: center;">
+  <img src="src/assets/img-user-persona-lucero.png" alt="user persona de Lucero Barrionuevo"  style="width: 70%;"></img>
+ </div>
+
+### 2.3.2. User Task Matrix
+
+<div style="width: 100%; display: flex; justify-content: center;">
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Monitorear los procesos de gestión de proyectos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Supervisar los registros de proyectos</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contratar personal para proyectos</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Valorar la experiencia previa y habilidades técnicas al contratar</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Considerar la flexibilidad de horarios para empleos temporales</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Superar obstáculos en la gestión de proyectos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Describir los servicios y proyectos que ofrecen</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Fijar precios para los servicios</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contratar empresas de postes a través de la plataforma</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Actualizar la información de los servicios ofrecidos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Responder a las solicitudes de las empresas de telecomunicaciones</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Seguimiento de las solicitudes de las empresas de telecomunicaciones</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Ofrecer características esenciales como facilidad de uso, variedad de oportunidades de negocio y seguridad de los datos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contratar a trabajadores especializados</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Considerar a trabajadores sin experiencia previa si demuestran entusiasmo y potencial</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Valorar la flexibilidad de horarios en los candidatos</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Utilizar la plataforma para aumentar la visibilidad y captar clientes</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Recomendar características adicionales para la plataforma</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+</table>
+</div>
+
+### 2.3.3. User Journey Mapping
+En la presente sección se ilustra el end-to-end journey de la aplicación PostNetQuote para los segmentos objetivos, Empresas de telecomunicaciones y clientes. El User Journey Mapping empieza desde el momento en el que el cliente adquiere
+conocimiento de la aplicación pasando por el proceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
+
+**Segmento 1**
+ <div style="text-align: center;">
+  <img src="src/assets/img-journey-map-angel.png" alt="user persona de Ángel Cisneros"  style="width: 70%;"></img>
+ </div>
+
+**Segmento 2**
+ <div style="text-align: center;">
+ <img src="src/assets/img-journey-map-lucero.png" alt="user persona de Lucero Barrionuevo"  style="width: 70%;"></img>
+</div>
+
 
 # 4.1. Style Guidelines
 
