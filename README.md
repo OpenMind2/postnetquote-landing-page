@@ -4,9 +4,9 @@
 
 El escenario To-Be es una herramienta crucial en la planificación estratégica, ya que define los objetivos futuros y las metas deseadas para mejorar los procesos y sistemas existentes. Este proceso proporciona una visión clara y detallada del estado futuro deseado, identificando áreas de mejora y oportunidades para el cambio. A continuación, se presentará una descripción detallada de este proceso y su aplicación en el contexto del proyecto en cuestión.
 
-<img src="/assets/to_be_empresas.png" alt="To Be Empresas"></img>
+<img src="src/assets/img-to-be-empresas.png" alt="To Be Empresas"></img>
 
-<img src="/assets/to_be_usuarios.png" alt="To Be Usuarios"></img>
+<img src="src/assets/img-to-be-usuarios.png" alt="To Be Usuarios"></img>
 
 # 3.2. User Stories
 
@@ -657,9 +657,9 @@ Entonces la API elimina la cotización y devuelve un mensaje de confirmación.
 
 El impact mapping es una herramienta estratégica que alinea los objetivos del negocio con las características de nuestra plataforma. Nos ayuda a visualizar cómo cada aspecto del desarrollo contribuye a los resultados deseados. Al desglosar objetivos en impactos y actividades, tomamos decisiones más centradas en el valor.
 
-<img src="/assets/impact_mapping_ana_lucero.png" alt="Impact Mapping Ana Lucero"></img>
+<img src="src/assets/img-impact-mapping-ana-lucero.png" alt="Impact Mapping Ana Lucero"></img>
 
-<img src="/assets/impact_mapping_angel_cisneros.png" alt="Impact Mapping Angel Cisneros"></img>
+<img src="src/assets/img-impact-mapping-angel-cisneros.png" alt="Impact Mapping Angel Cisneros"></img>
 
 # 3.4. Product Backlog 
 
