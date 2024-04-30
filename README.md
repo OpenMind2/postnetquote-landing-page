@@ -57,7 +57,7 @@
 |   1.5   | 06/04/2024 | Todos los integrantes del equipo | Se realizó el Impact Mapping. Se realizó el Product Backlog.                                                                                                                                                                                     |
 |   1.6   | 08/04/2024 | Todos los integrantes del equipo | Se realizó el Style Guideline. Se realizó el Information Arquitecture. Se realizó el Landing Page UI Design. Se realizó el Web Applications UI/UX Design. Se realizó el Web Application Prototyping. Se desarrolló la Landing Page del proyecto. |
 |   1.7   | 10/04/2024 | Todos los integrantes del equipo | Se culminó con los puntos restantes del capitulo 4 "Product Design". Se realizó el Capítulo 5 "Product Implementation, Validation & Deployment". Se realizó el informe de reporte de participación.                                              |
-
+|   1.8   |29/04/2024| Erick Cueva, Charlie Avellaneda| Se realizó el diseño parcial del front-end, incluyendo login, register, nav bar y body, así como una fake api en json server                                                                                                                     |
 <br><br>
 
 # Project Report Collaboration Insights
@@ -188,6 +188,14 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         <b>Erick Armando Cueva Elera</b><br>
         - Como encargado de la primera parte del informe que envuelve toda la explicación de la startup, coordine con todo el equipo para desarrollar la correcta definicion del proyecto, comunicandonos las ideas principales y tomanda en cuenta todas nuestras opiniones.
         <br><br>
+        <b>TP</b><br>
+        <br><br>
+        <b>Erick Armando Cueva Elera</b><br>
+        - He investigado y desarrollado parcialmente el frontend, así como la implementación de una fake api en json server
+        <br><br>
+        <b>Carlos Edward Avellaneda Ramos </b><br>
+        - He investigado y desarrollado parcialmente el frontend, así como la implementación de una fake api en json server
+        <br><br>
    </td>
     <td>Es necesaria la comunicación entre los integrantes del equipo para la correcta definición sobre lo que va a tratar nuestra startut y poder realizar de manera correcta las entrevistar necesarias a los segmentos objetivos.<br><br>
   </td>
@@ -209,6 +217,14 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         <br><br>
         <b>Erick Armando Cueva Elera</b><br>
         - Con la información debatida con el resto de integrantes del grupo, me encargué de plasmar de manera clara y concisa la información en la primera parte de nuestro reporte, intentando que los lectores encuentren nuestro informe ameno para el entendimiento.
+        <br><br>
+        <b>TP</b><br>
+        <br><br>
+        <b>Erick Armando Cueva Elera</b><br>
+        - He investigado y desarrollado parcialmente el frontend, así como la implementación de una fake api en json server
+        <br><br>
+        <b>Carlos Edward Avellaneda Ramos </b><br>
+        - He investigado y desarrollado parcialmente el frontend, así como la implementación de una fake api en json server
         <br><br>
    </td>
     <td>Debemos realizar la escritura del informe de manera correcta, para poder lograr que quien quiera entender sobre los inicios de nuestro proyecto, pueda hacerlo de forma amena y sin confusión a la hora de leer nuestro informe.<br><br>
@@ -2533,3 +2549,173 @@ Para la conclusión del Sprint número 1, se ha logrado desplegar una versión p
 ### 5.2.1.8 Team Collaboration Insights during Sprint
 
 <img alt="Estadistica" src="src/assets/img-estadistica.png">
+
+### 5.2.2. Sprint 2
+En esta sección se registra y explica el avance en términos de producto y trabajo
+colaborativo para el Sprint
+#### 5.2.2.1. Sprint Planning 2
+
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting. Se
+inicia la sección con una introducción y a continuación se coloca el cuadro de
+resumen del sprint planning meeting.
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            18/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Google Meet   
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            OpenMind 
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo OpenMind   
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+Se implementaron las user stories. 
+</td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Hemos intentando mantener una comunicación constante, además de ayudarnos como grupo.
+</td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+</table>
+</br>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+Durante este sprint backlog, el equipo planeo desarrollar el front end de la pagina web de manera parcial, siguiendo el modelo de los wireframes propuestos por nosotros mismos en el Sprint anterior.
+<table align ="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">---</td>
+       <td rowspan="3">Desarrollo parcial del frontend</td>
+       <td>T01</td>
+       <td>Desarrollo parcial del frontend</td>
+       <td>Desarrollar de manera parcial el front end siguiente los wireframes propuestos con anterioridad.</td>
+       <td>---</td>
+       <td>Carlos Avellaneda / Erick Cueva</td>
+       <td>In Progress</td>
+    </tr>
+  </table>
+
+
+###  5.2.1.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+En el sprint 2, se logró avanzar parcialmente la implementación del front end de la pagina web con fake api, logrando el login y register.
+
+1. Sección de Log In
+
+   <img alt="Menu_navegacion_sprint1" src="src/assets/login.jpeg">
+
+2. Sección Registro
+
+    <img alt="Servicios_sprint_1" src="src/assets/register.jpeg">
+
+3. Sección Cronograma de Proyectos
+
+    <img alt="Proyectos_sprint1" src="src/assets/cronograma.jpeg">
+
+### 5.2.1.6 Services Documentation Evidence for Sprint Review
+En el plan inicial del segundo sprint, no se consideró la inclusión de documentación de los servicios como parte de las pruebas o entregables.
+
+### 5.2.1.7 Software Deployment Evidence for Sprint Review
+Para la conclusión del Sprint número 2, se intentó desplegar el front-end de la pagina web mediante firebase, sin éxito.
+
+### 5.2.1.8 Team Collaboration Insights during Sprint
+
+<img alt="Estadistica" src="src/assets/insightsSprint2.jpg">
